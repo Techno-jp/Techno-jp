@@ -1,0 +1,22 @@
+{
+  "name": "my_app",
+  "version": "1.0.0",
+  "description": "If you are not able to select among different choices , this is just for you .Enter your choices and let me select it for yourself.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d web4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techno-jp/Techno-jp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://Techno-jp.github.io/Techno-jp",
+  
+  
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
