@@ -6,10 +6,7 @@
   "scripts": {
     "deploy": "gh-pages -d web4"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Techno-jp/Techno-jp.git"
-  },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
